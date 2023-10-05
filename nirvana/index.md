@@ -1,5 +1,5 @@
 
-<img src="../../assets/header_point.png">
+<img src="assets/header_nirvana.png">
 
 # "Точка сборки-3D" - Трехмерная графика и анимация
 
