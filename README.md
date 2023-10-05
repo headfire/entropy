@@ -1,4 +1,4 @@
-![Headfire - Home](assets/logo/headfire_home.png)
+![Headfire - Home](assets/header_home.png)
 
 Добро пожаловать на домашнюю страничку Headfire -- программиста и фантазера. Здесь вы найдете
 интересные сочинения, графические материалы, и, конечно, программный код. 
