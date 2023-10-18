@@ -14,6 +14,7 @@
 ![Хаос-разведка](assets/icon_chaos.png)
 
 - [Хаос-разведка-1. Протокол "Энтропия"](novels/chaos_01_entropia.html) - скрыться в хаосе - иногда единственно-правильное решение.
+- [+ Хаос-разведка-2. Проект "Ариадна"](novels/chaos_02_ariadna.html)
 
 <br>
 <br>
@@ -24,22 +25,20 @@
 
 - [Медные реки](novels/rivers_cuprum_rivers.html) - про дружбу, первую любовь и дьявольски хитрое изобретение 
 российских ученых.
+- [Ада -- Последняя программистка (не выверено)](novels/rivers_ada.html)
+- [Кластер (не выверено)](novels/rivers_claster.html)
+- [Степень свободы (не выверено)](novels/rivers_freedom_degree.html)
+- [Город мастеров (не выверено)](novels/rivers_masters_town.html)
+- [Девять микрон (не выверено)](novels/rivers_nine_micron.html)
+- [Грипп (не выверено)](novels/rivers_virus.html)
+- [Победитель (не выверено)](novels/rivers_winner.html)
+- [Плотник (не выверено)](novels/rivers_wood_master.html)
 
 <br>
 <br>
 
 ## Не выверено
 
-- [chaos_02_ariadna](novels/chaos_02_ariadna.html)
-- [rivers_ada](novels/rivers_ada.html)
-- [rivers_claster](novels/rivers_claster.html)
-- [rivers_cuprum_rivers](novels/rivers_cuprum_rivers.html)
-- [rivers_freedom_degree](novels/rivers_freedom_degree.html)
-- [rivers_masters_town](novels/rivers_masters_town.html)
-- [rivers_nine_micron](novels/rivers_nine_micron.html)
-- [rivers_virus](novels/rivers_virus.html)
-- [rivers_winner](novels/rivers_winner.html)
-- [rivers_wood_master](novels/rivers_wood_master.html)
 - [robot_e_paradise](novels/robot_e_paradise.html)
 - [robot_finite_automat](novels/robot_finite_automat.html)
 - [robot_mobile_bank](novels/robot_mobile_bank.html)
