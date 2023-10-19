@@ -12,11 +12,11 @@
 
 Cкрыться в хаосе - иногда единственно-правильное решение.
 
-- [+Хаос-разведка 01 - Сердце друга](novels/chaos_01_heart.html)
-- [+Хаос-разведка 02 - Те, которых нет](novels/chaos_02_nobodies.html)
-- [Хаос-разведка 03 - Протокол "Энтропия"](novels/chaos_03_entropia.html)
-- [+Хаос-разведка 04 - Проект "Ариадна"](novels/chaos_04_ariadna.html)
-- [+Хаос-разведка 05 - Шторм на системной шине"](novels/chaos_05_storm.html)
+- [Сердце друга](novels/chaos_01_heart.html)
+- [Те, которых нет](novels/chaos_02_nobodies.html)
+- [Протокол "Энтропия"](novels/chaos_03_entropia.html)
+- [Проект "Ариадна"](novels/chaos_04_ariadna.html)
+- [Шторм на системной шине"](novels/chaos_05_storm.html)
 
 <br>
 <br>
@@ -34,7 +34,7 @@ Cкрыться в хаосе - иногда единственно-правил
 
 ## Не выверено
 
-- [chaos_01_frends_heart.md](novels/chaos_01_frends_heart.html)
+- [chaos_01_heart.md](novels/chaos_01_heart.html)
 - [chaos_02_nobodyes.md](novels/chaos_02_nobodyes.html)
 - [chaos_05_storm.md](novels/chaos_05_storm.html)
 - [dark_01_sex.md](novels/dark_01_sex.html)
