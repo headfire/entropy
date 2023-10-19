@@ -10,8 +10,13 @@
 
 ![Хаос-разведка](assets/icon_chaos.png)
 
-- [Хаос-разведка-1. Протокол "Энтропия"](novels/chaos_01_entropia.html) - скрыться в хаосе - иногда единственно-правильное решение.
-- [+ Хаос-разведка-2. Проект "Ариадна"](novels/chaos_02_ariadna.html)
+Cкрыться в хаосе - иногда единственно-правильное решение.
+
+- [+Хаос-разведка 01 - Сердце друга](novels/chaos_01_heart.html)
+- [+Хаос-разведка 02 - Те, которых нет](novels/chaos_02_nobodies.html)
+- [Хаос-разведка 03 - Протокол "Энтропия"](novels/chaos_03_entropia.html)
+- [+Хаос-разведка 04 - Проект "Ариадна"](novels/chaos_04_ariadna.html)
+- [+Хаос-разведка 05 - Шторм на системной шине"](novels/chaos_05_storm.html)
 
 <br>
 <br>
@@ -20,16 +25,17 @@
 
 ![Я -- Не робот](assets/icon_river.png)
 
-- [Медные реки](novels/rivers_cuprum_rivers.html) - про дружбу, первую любовь и дьявольски хитрое изобретение 
-российских ученых.
-- [Ада -- Последняя программистка (не выверено)](novels/rivers_ada.html)
-- [Кластер (не выверено)](novels/rivers_claster.html)
-- [Степень свободы (не выверено)](novels/rivers_freedom_degree.html)
-- [Город мастеров (не выверено)](novels/rivers_masters_town.html)
-- [Девять микрон (не выверено)](novels/rivers_nine_micron.html)
-- [Грипп (не выверено)](novels/rivers_virus.html)
-- [Победитель (не выверено)](novels/rivers_winner.html)
-- [Плотник (не выверено)](novels/rivers_wood_master.html)
+Про дружбу, первую любовь, странные компьютеры и дьявольски хитрый изобретения российских ученых
+
+- [Медные реки](novels/rivers_01_cuprum.html)
+- [+Ада -- Последняя программистка](novels/rivers_02_ada.html)
+- [+Кластер (не выверено)](novels/rivers_03_claster.html)
+- [+Степень свободы (не выверено)](novels/rivers_04_freedom.html)
+- [+Город мастеров (не выверено)](novels/rivers_05_masters.html)
+- [+Девять микрон (не выверено)](novels/rivers_06_micron.html)
+- [+Грипп (не выверено)](novels/rivers_07_virus.html)
+- [+Победитель (не выверено)](novels/rivers_08_winner.html)
+- [+Плотник (не выверено)](novels/rivers_09_wood.html)
 
 <br>
 <br>
