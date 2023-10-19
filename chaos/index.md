@@ -127,6 +127,6 @@
 в древних трактатах. Никогда бы не поверил, в то, что происходит со мной в данный момент..."*
 
 - [В раю секса не будет](novels/dark_01_sex.html)
-- [dark_02_manifest](novels/dark_02_manifest.html)
-- [dark_03_mounts](novels/dark_03_mounts.html)
+- [Манифест о дружбе и любви](novels/dark_02_manifest.html)
+- [Спуститесь с гор - напейтесь воды](novels/dark_03_mounts.html)
 
