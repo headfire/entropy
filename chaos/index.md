@@ -38,10 +38,10 @@
 я отчетливо слышу этот незаметный для всех щелчок затвора. Математика – это самое грозное оружие. 
 Я понимаю, что кто-то выковывает себе меч. А может меч выкован и уже занесен..."*
 
-- [river_01_ada](novels/river_01_ada.html)
-- [river_02_cuprum](novels/river_02_cuprum.html)
-- [river_03_degree](novels/river_03_degree.html)
-- [river_04_nine](novels/river_04_nine.html)
+- [Ада - последняя программистка](novels/river_01_ada.html)
+- [Медные реки](novels/river_02_cuprum.html)
+- [Степень свободы](novels/river_03_degree.html)
+- [Девять микрон](novels/river_04_nine.html)
 - [river_05_outsider](novels/river_05_outsider.html)
 - [river_06_masters](novels/river_06_masters.html)
 - [river_07_claster](novels/river_07_claster.html)
