@@ -1,41 +1,7 @@
-![Хаос-разведка](assets/header_chaos.png)
-
-Программисты и инженеры - не черствые сухари, а глубоко чувствующие и переживающие души. За математическими
-формулами, чертежами и программным кодом скрывается трепетная душа, способная любить и ненавидеть.
-
-<br>
-<br>
-
-## Цикл "Хаос-разведка"
-
-![Хаос-разведка](assets/icon_chaos.png)
-
-Cкрыться в хаосе - иногда единственно-правильное решение.
-
-- [+Хаос-разведка 01 - Сердце друга](novels/chaos_01_heart.html)
-- [+Хаос-разведка 02 - Те, которых нет](novels/chaos_02_nobodies.html)
-- [Хаос-разведка 03 - Протокол "Энтропия"](novels/chaos_03_entropia.html)
-- [+Хаос-разведка 04 - Проект "Ариадна"](novels/chaos_04_ariadna.html)
-- [+Хаос-разведка 05 - Шторм на системной шине"](novels/chaos_05_storm.html)
-
-<br>
-<br>
-
-## Цикл "Медные реки"
-
-![Я -- Не робот](assets/icon_river.png)
-
-Про дружбу, первую любовь, странные компьютеры и дьявольски хитрый изобретения российских ученых
-
-- [river_02_cuprum.md](novels/river_02_cuprum.html)
-
-<br>
-<br>
-
-## Не выверено
-
 - [chaos_01_frends_heart.md](novels/chaos_01_frends_heart.html)
 - [chaos_02_nobodyes.md](novels/chaos_02_nobodyes.html)
+- [chaos_03_entropia.md](novels/chaos_03_entropia.html)
+- [chaos_04_ariadna.md](novels/chaos_04_ariadna.html)
 - [chaos_05_storm.md](novels/chaos_05_storm.html)
 - [dark_01_sex.md](novels/dark_01_sex.html)
 - [dark_02_manifest.md](novels/dark_02_manifest.html)
@@ -44,6 +10,7 @@ Cкрыться в хаосе - иногда единственно-правил
 - [lirics_02_live.md](novels/lirics_02_live.html)
 - [lirics_03_rubai.md](novels/lirics_03_rubai.html)
 - [river_01_ada.md](novels/river_01_ada.html)
+- [river_02_cuprum.md](novels/river_02_cuprum.html)
 - [river_03_degree.md](novels/river_03_degree.html)
 - [river_04_nine.md](novels/river_04_nine.html)
 - [river_05_outsider.md](novels/river_05_outsider.html)
@@ -78,7 +45,3 @@ Cкрыться в хаосе - иногда единственно-правил
 - [sun_12_voice.md](novels/sun_12_voice.html)
 - [sun_14_river.md](novels/sun_14_river.html)
 - [sun_15_achronic.md](novels/sun_15_achronic.html)
-
----
-
-C другими проектами вы можете ознакомиться на домашней странице [@Headfire](/home)
