@@ -42,15 +42,15 @@
 - [Медные реки](novels/river_02_cuprum.html)
 - [Степень свободы](novels/river_03_degree.html)
 - [Девять микрон](novels/river_04_nine.html)
-- [river_05_outsider](novels/river_05_outsider.html)
-- [river_06_masters](novels/river_06_masters.html)
-- [river_07_claster](novels/river_07_claster.html)
-- [river_08_winner](novels/river_08_winner.html)
-- [river_09_virus](novels/river_09_virus.html)
-- [river_10_command](novels/river_10_command.html)
-- [river_11_heat](novels/river_11_heat.html)
-- [river_12_click](novels/river_12_click.html)
-- [river_13_bredni](novels/river_13_bredni.html)
+- [Крайний](novels/river_05_outsider.html)
+- [Город мастеров](novels/river_06_masters.html)
+- [Кластер](novels/river_07_claster.html)
+- [Победитель](novels/river_08_winner.html)
+- [Грипп](novels/river_09_virus.html)
+- [Последний приказ](novels/river_10_command.html)
+- [Пекло](novels/river_11_heat.html)
+- [Щелчок затвора](novels/river_12_click.html)
+- [Бредни программиста](novels/river_13_bredni.html)
 
 
 ## Цикл "Я не робот"
@@ -63,15 +63,15 @@
 могло спокойно заниматься своими делами. Но влюбленным было по большому счету все равно. 
 Ведь они были вместе..."*
 
-- [robot_01_real](novels/robot_01_real.html)
-- [robot_02_wind](novels/robot_02_wind.html)
-- [robot_03_paradise](novels/robot_03_paradise.html)
-- [robot_04_programmer](novels/robot_04_programmer.html)
-- [robot_05_pulsar](novels/robot_05_pulsar.html)
-- [robot_06_finite](novels/robot_06_finite.html)
-- [robot_07_woodmaster](novels/robot_07_woodmaster.html)
-- [robot_08_rms](novels/robot_08_rms.html)
-- [robot_09_mobile](novels/robot_09_mobile.html)
+- [Настоящая жизнь](novels/robot_01_real.html)
+- [Паруса 3D](novels/robot_02_wind.html)
+- [Электронный рай](novels/robot_03_paradise.html)
+- [Программист](novels/robot_04_programmer.html)
+- [Пульсар](novels/robot_05_pulsar.html)
+- [Конечный автомат](novels/robot_06_finite.html)
+- [Плотник](novels/robot_07_woodmaster.html)
+- [RMS](novels/robot_08_rms.html)
+- [Мобильный банк](novels/robot_09_mobile.html)
 
 
 ## Цикл "Небесные сервера"
@@ -101,20 +101,20 @@
 уверен - в каждом из нас ярко светит Невидимое Солнце. Но самая большая тайна жизни 
 открывается, когда понимаешь, что Невидимое Солнце, как и обычное - одно на всех..."*
 
-- [sun_01_save](novels/sun_01_save.html)
-- [sun_02_hair](novels/sun_02_hair.html)
-- [sun_03_invisible](novels/sun_03_invisible.html)
-- [sun_04_ascent](novels/sun_04_ascent.html)
-- [sun_05_aristotel](novels/sun_05_aristotel.html)
-- [sun_06_drops](novels/sun_06_drops.html)
-- [sun_07_pescar](novels/sun_07_pescar.html)
-- [sun_08_bag](novels/sun_08_bag.html)
-- [sun_09_room](novels/sun_09_room.html)
-- [sun_10_noize](novels/sun_10_noize.html)
-- [sun_11_scince](novels/sun_11_scince.html)
-- [sun_12_voice](novels/sun_12_voice.html)
-- [sun_14_river](novels/sun_14_river.html)
-- [sun_15_achronic](novels/sun_15_achronic.html)
+- [Спасти мир](novels/sun_01_save.html)
+- [Тоньше волоса](novels/sun_02_hair.html)
+- [Невидимое солнце](novels/sun_03_invisible.html)
+- [Восхождение](novels/sun_04_ascent.html)
+- [Аристотель](novels/sun_05_aristotel.html)
+- [Капли одного океана](novels/sun_06_drops.html)
+- [Пульсар](novels/sun_07_pescar.html)
+- [Сумка](novels/sun_08_bag.html)
+- [Пустая комната](novels/sun_09_room.html)
+- [Шум](novels/sun_10_noize.html)
+- [Последняя наука](novels/sun_11_scince.html)
+- [Голос](novels/sun_12_voice.html)
+- [Идеальная река](novels/sun_14_river.html)
+- [Ахроник](novels/sun_15_achronic.html)
 
 
 ## Цикл "Темная сторона"
