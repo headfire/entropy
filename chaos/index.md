@@ -1,73 +1,132 @@
 ![Хаос-разведка](assets/header_chaos.png)
 
+Здравствуй, уважаемый читатель! На этой страничке я подвожу некоторые итоги своего литературного творчества.
+Почти все мои мысли, которые я превратил в повести, рассказы и стихи - посвящены людям с техническим складом ума.
 Программисты и инженеры - не черствые сухари, а глубоко чувствующие и переживающие души. За математическими
 формулами, чертежами и программным кодом скрывается трепетная душа, способная любить и ненавидеть.
+
 
 ## Цикл "Хаос-разведка"
 
 ![Хаос-разведка](assets/icon_chaos.png)
 
-Cкрыться в хаосе - иногда единственно-правильное решение.
+*" ...Если говорить по-простому – я абсолютно слился с толпой, и выделить меня из нее было 
+так же невозможно, как, например, невозможно вскрыть современный сильный шифр. Отныне 
+все мои действия для окружающего мира будут выглядеть, как случайные события без какой–либо 
+причинно-следственной связи. Их будет невозможно сопоставить и связать в какие-то логические 
+цепочки. Я нахожусь и существую в энтропийном поле ниже уровня помехи.
+Я оказался под защитой сил могущественней чем начальники, политики, армия, флот, интернет, 
+военно-космические силы. Отныне мои ангелы–хранители были – математика, логика, физика, 
+кибернетика. И все силы ада теперь перед ними стали беспомощны, как маленькие дети..."*
 
 - [Сердце друга](novels/chaos_01_heart.html)
 - [Те, которых нет](novels/chaos_02_nobodies.html)
 - [Протокол "Энтропия"](novels/chaos_03_entropia.html)
 - [Проект "Ариадна"](novels/chaos_04_ariadna.html)
-- [Шторм на системной шине"](novels/chaos_05_storm.html)
+- [Шторм на системной шине](novels/chaos_05_storm.html)
+
 
 ## Цикл "Медные реки"
 
-![Я -- Не робот](assets/icon_river.png)
+![Медные реки](assets/icon_river.png)
 
-Про дружбу, первую любовь, странные компьютеры и дьявольски хитрый изобретения российских ученых
+*"...Последнее время я живу, как в летаргическом сне. Многоэтажные SQL-запросы, HTML-шаблоны и 
+прочие ИТ-погремушки пишутся практически не приходя в сознание. Из этого состояния меня 
+не могут вытащить ни премии, ни тимбилдинг, ни мотивирующие семинары, ни прочие пляски 
+с бубнами различных корпоративных шаманов. Но когда мне становится известно, что кто-то 
+хочет что-то сделать с целыми числами, превышающими разрядность процессора (пусть даже просто сложить), 
+я отчетливо слышу этот незаметный для всех щелчок затвора. Математика – это самое грозное оружие. 
+Я понимаю, что кто-то выковывает себе меч. А может меч выкован и уже занесен..."*
 
-- [river_02_cuprum.md](novels/river_02_cuprum.html)
+- [river_01_ada](novels/river_01_ada.html)
+- [river_02_cuprum](novels/river_02_cuprum.html)
+- [river_03_degree](novels/river_03_degree.html)
+- [river_04_nine](novels/river_04_nine.html)
+- [river_05_outsider](novels/river_05_outsider.html)
+- [river_06_masters](novels/river_06_masters.html)
+- [river_07_claster](novels/river_07_claster.html)
+- [river_08_winner](novels/river_08_winner.html)
+- [river_09_virus](novels/river_09_virus.html)
+- [river_10_command](novels/river_10_command.html)
+- [river_11_heat](novels/river_11_heat.html)
+- [river_12_click](novels/river_12_click.html)
+- [river_13_bredni](novels/river_13_bredni.html)
 
-## Не выверено
 
-- [chaos_05_storm.md](novels/chaos_05_storm.html)
-- [dark_01_sex.md](novels/dark_01_sex.html)
-- [dark_02_manifest.md](novels/dark_02_manifest.html)
-- [dark_03_mounts.md](novels/dark_03_mounts.html)
-- [lirics_01_deep.md](novels/lirics_01_deep.html)
-- [lirics_02_live.md](novels/lirics_02_live.html)
-- [lirics_03_rubai.md](novels/lirics_03_rubai.html)
-- [river_01_ada.md](novels/river_01_ada.html)
-- [river_03_degree.md](novels/river_03_degree.html)
-- [river_04_nine.md](novels/river_04_nine.html)
-- [river_05_outsider.md](novels/river_05_outsider.html)
-- [river_06_masters.md](novels/river_06_masters.html)
-- [river_07_claster.md](novels/river_07_claster.html)
-- [river_08_winner.md](novels/river_08_winner.html)
-- [river_09_virus.md](novels/river_09_virus.html)
-- [river_10_command.md](novels/river_10_command.html)
-- [river_11_heat.md](novels/river_11_heat.html)
-- [river_12_click.md](novels/river_12_click.html)
-- [river_13_bredni.md](novels/river_13_bredni.html)
-- [robot_01_real.md](novels/robot_01_real.html)
-- [robot_02_wind.md](novels/robot_02_wind.html)
-- [robot_03_paradise.md](novels/robot_03_paradise.html)
-- [robot_04_programmer.md](novels/robot_04_programmer.html)
-- [robot_05_pulsar.md](novels/robot_05_pulsar.html)
-- [robot_06_finite.md](novels/robot_06_finite.html)
-- [robot_07_woodmaster.md](novels/robot_07_woodmaster.html)
-- [robot_08_rms.md](novels/robot_08_rms.html)
-- [robot_09_mobile.md](novels/robot_09_mobile.html)
-- [sun_01_save.md](novels/sun_01_save.html)
-- [sun_02_hair.md](novels/sun_02_hair.html)
-- [sun_03_invisible.md](novels/sun_03_invisible.html)
-- [sun_04_ascent.md](novels/sun_04_ascent.html)
-- [sun_05_aristotel.md](novels/sun_05_aristotel.html)
-- [sun_06_drops.md](novels/sun_06_drops.html)
-- [sun_07_pescar.md](novels/sun_07_pescar.html)
-- [sun_08_bag.md](novels/sun_08_bag.html)
-- [sun_09_room.md](novels/sun_09_room.html)
-- [sun_10_noize.md](novels/sun_10_noize.html)
-- [sun_11_scince.md](novels/sun_11_scince.html)
-- [sun_12_voice.md](novels/sun_12_voice.html)
-- [sun_14_river.md](novels/sun_14_river.html)
-- [sun_15_achronic.md](novels/sun_15_achronic.html)
+## Цикл "Я не робот"
 
----
+![Я не робот](assets/icon_robot.png)
 
-C другими проектами вы можете ознакомиться на домашней странице [@Headfire](/home)
+*"...Они поцеловались, озаренные светом Сверхновой. Что будет дальше, они не знали. 
+Согласно новой американской теории весь мир должен был погибнуть от жесткого излучения. 
+Согласно русской традиционной школе астрофизики, никакой опасности не было, и человечество 
+могло спокойно заниматься своими делами. Но влюбленным было по большому счету все равно. 
+Ведь они были вместе..."*
+
+- [robot_01_real](novels/robot_01_real.html)
+- [robot_02_wind](novels/robot_02_wind.html)
+- [robot_03_paradise](novels/robot_03_paradise.html)
+- [robot_04_programmer](novels/robot_04_programmer.html)
+- [robot_05_pulsar](novels/robot_05_pulsar.html)
+- [robot_06_finite](novels/robot_06_finite.html)
+- [robot_07_woodmaster](novels/robot_07_woodmaster.html)
+- [robot_08_rms](novels/robot_08_rms.html)
+- [robot_09_mobile](novels/robot_09_mobile.html)
+
+
+## Цикл "Небесные сервера"
+
+![Небесные сервера](assets/icon_lyrics.png)
+
+*...  
+Знай правило простое наперед  
+Творец себе подобных создает  
+Не знает чип, зачем он вычисляет  
+Не знает человек, зачем живет  
+...*
+
+- [lyrics_01_deep](novels/lyrics_01_deep.html)
+- [lyrics_02_live](novels/lyrics_02_live.html)
+- [lyrics_03_rubai](novels/lyrics_03_rubai.html)
+
+
+## Цикл "Невидимое солнце"
+
+![Невидимое солнце](assets/icon_sun.png)
+
+*"...Со временем перестаешь обращать внимание только на очевидное и начинаешь смотреть вглубь, 
+за грань внешних проявлений. Постепенно приходишь к мысли, что существует другой, Невидимый Мир. 
+Понимаешь, что именно там, в Невидимом, находятся истоки всех явлений и событий. Общаясь 
+с людьми, все больше ощущаешь, исходящие из них потоки энергии. Теперь уже я твердо 
+уверен - в каждом из нас ярко светит Невидимое Солнце. Но самая большая тайна жизни 
+открывается, когда понимаешь, что Невидимое Солнце, как и обычное - одно на всех..."*
+
+- [sun_01_save](novels/sun_01_save.html)
+- [sun_02_hair](novels/sun_02_hair.html)
+- [sun_03_invisible](novels/sun_03_invisible.html)
+- [sun_04_ascent](novels/sun_04_ascent.html)
+- [sun_05_aristotel](novels/sun_05_aristotel.html)
+- [sun_06_drops](novels/sun_06_drops.html)
+- [sun_07_pescar](novels/sun_07_pescar.html)
+- [sun_08_bag](novels/sun_08_bag.html)
+- [sun_09_room](novels/sun_09_room.html)
+- [sun_10_noize](novels/sun_10_noize.html)
+- [sun_11_scince](novels/sun_11_scince.html)
+- [sun_12_voice](novels/sun_12_voice.html)
+- [sun_14_river](novels/sun_14_river.html)
+- [sun_15_achronic](novels/sun_15_achronic.html)
+
+
+## Цикл "Темная сторона"
+
+![Темная сторона](assets/icon_dark.png)
+
+*"...Я здесь и сейчас. Мне все ясно. Достигнута необыкновенная легкость мышления. Прошлое 
+растворилось в настоящем и стало новой гранью восприятия. Будущее из потока скомканных 
+вероятностей превратилось в яркий мир безграничных возможностей. Все, как описывалось 
+в древних трактатах. Никогда бы не поверил, в то, что происходит со мной в данный момент..."*
+
+- [dark_01_sex](novels/dark_01_sex.html)
+- [dark_02_manifest](novels/dark_02_manifest.html)
+- [dark_03_mounts](novels/dark_03_mounts.html)
+
