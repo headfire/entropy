@@ -25,8 +25,6 @@ Cкрыться в хаосе - иногда единственно-правил
 
 ## Не выверено
 
-- [chaos_01_heart.md](novels/chaos_01_heart.html)
-- [chaos_02_nobodyes.md](novels/chaos_02_nobodyes.html)
 - [chaos_05_storm.md](novels/chaos_05_storm.html)
 - [dark_01_sex.md](novels/dark_01_sex.html)
 - [dark_02_manifest.md](novels/dark_02_manifest.html)
