@@ -85,9 +85,9 @@
 Не знает человек, зачем живет  
 ...*
 
-- [lyrics_01_deep](novels/lyrics_01_deep.html)
-- [lyrics_02_live](novels/lyrics_02_live.html)
-- [lyrics_03_rubai](novels/lyrics_03_rubai.html)
+- [В глубокой отладке](novels/lyrics_01_deep.html)
+- [Все живы, кто любил](novels/lyrics_02_live.html)
+- [Электронные рубаи](novels/lyrics_03_rubai.html)
 
 
 ## Цикл "Невидимое солнце"
