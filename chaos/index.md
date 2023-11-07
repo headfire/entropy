@@ -129,4 +129,5 @@
 - [В раю секса не будет](novels/dark_01_sex.html)
 - [Манифест о дружбе и любви](novels/dark_02_manifest.html)
 - [Спуститесь с гор - напейтесь воды](novels/dark_03_mounts.html)
+- [Правильно заправлять кровать](novels/dark_04_bed.html)
 
